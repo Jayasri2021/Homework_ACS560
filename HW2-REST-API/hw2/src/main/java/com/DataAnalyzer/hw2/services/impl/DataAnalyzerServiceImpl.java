@@ -28,11 +28,6 @@ public class DataAnalyzerServiceImpl implements DataAnalyzerService {
     }
 
     @Override
-    public int getDataSize() {
-        return repository.getDataSize();
-    }
-
-    @Override
     public double getAverageCalories() {
         List<HealthCalculation> calculations = getAllHealthCalculations();
         if (calculations.isEmpty()) {
