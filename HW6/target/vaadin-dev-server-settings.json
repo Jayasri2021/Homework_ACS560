@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/DELL/eclipse-workspace/HW6/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/DELL/eclipse-workspace/HW6/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/DELL/eclipse-workspace/HW6/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\DELL\\eclipse-workspace\\HW6\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\DELL\\eclipse-workspace\\HW6\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/DELL/eclipse-workspace/HW6/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/DELL/eclipse-workspace/HW6/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/DELL/eclipse-workspace/HW6/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\DELL\\eclipse-workspace\\HW6\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
